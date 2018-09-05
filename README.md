@@ -1,3 +1,3 @@
 # my-first-webpage
 #### description
-This is my first website when i was a todler in codding
+This is my first website when I was a todler in coding
